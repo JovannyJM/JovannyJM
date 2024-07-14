@@ -1,16 +1,32 @@
-## Hi there 👋
+## Bienvenidos 👋
 
-<!--
-**JovannyJM/JovannyJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Jovanny, un estudiante de Sistemas Computacionales. Estoy aprendiendo el lenguaje Java y tomo cursos de Programación. Realizo algunos proyectos para fortalecer mi aprendizaje y también estoy tomando cursos de JavaScript y un poco de modelado 3D.
 
-Here are some ideas to get you started:
+### 🔭 Actualmente estoy trabajando en...
+Proyectos de estudio para reforzar mi aprendizaje en Java y POO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Actualmente estoy aprendiendo...
+- Java
+- Programación Orientada a Objetos (POO) en Java
+- JavaScript
+- Modelado 3D
+
+### 👯 Estoy buscando colaborar en...
+Proyectos de desarrollo de software, especialmente en áreas relacionadas con Java.
+
+### 🤔 Busco ayuda con...
+Mejorar mis habilidades en Java y aprender mejores prácticas.
+
+### 💬 Pregúntame sobre...
+- Programación en Java
+- Proyectos de POO
+- Videojuegos y desarrollo de juegos
+
+### 📫 Cómo contactarme:
+Puedes enviarme un mensaje a través de GitHub o por mi correo Jovagamerjm@gmail.com
+
+### 😄 Pronombres:
+Jova.
+
+### ⚡ Dato curioso:
+Me encantan los videojuegos y siempre estoy buscando aprender lo más posible sobre su desarrollo.
